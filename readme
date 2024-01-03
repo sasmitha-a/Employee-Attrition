@@ -1,0 +1,4 @@
+Employee attrition, the departure of employees from an organization, poses a significant challenge for businesses. 
+This project explores the application of advanced unsupervised learning techniques—Isolation Forest and Gaussian Mixture Model (GMM)—to unravel patterns and factors contributing to employee attrition. 
+Isolation Forest identifies anomalous behavior, while GMM provides insights into employee clusters. The study employs the Elbow Method, K-means Clustering with PCA, K-means Clustering with t-SNE, and LOF outliers with PCA to unveil patterns and clusters. 
+These techniques aid in optimal cluster determination, segmentation insights, and anomaly detection. Understanding employee attrition dynamics is vital for organizations aiming to develop effective strategies and ensure long-term organizational success.
